@@ -1,3 +1,4 @@
+// @ts-ignore
 import debug from 'debug';
 import { RequestHandler, Response } from 'express';
 

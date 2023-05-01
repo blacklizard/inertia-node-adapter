@@ -1,3 +1,4 @@
+// @ts-ignore
 import debug from 'debug';
 import type {
   Context,
@@ -102,6 +103,8 @@ const inertia: (
           ctx.headers[headers.xInertiaPartialData] &&
           ctx.headers[headers.xInertiaPartialComponent] === _page.component
         ) {
+
+          // @ts-ignore
           dataKeys = ctx.headers[headers.xInertiaPartialData].split(',');
         } else {
           log(

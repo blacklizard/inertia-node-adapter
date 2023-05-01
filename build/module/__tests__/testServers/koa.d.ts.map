@@ -1,0 +1,1 @@
+{"version":3,"file":"koa.d.ts","sourceRoot":"","sources":["../../../../src/__tests__/testServers/koa.ts"],"names":[],"mappings":"AAIA,OAAO,GAAuB,MAAM,KAAK,CAAC;AAI1C,OAAgB,EAAW,IAAI,EAAE,MAAM,sBAAsB,CAAC;AAG9D,OAAO,EAAE,aAAa,EAAE,MAAM,GAAG,CAAC;AAElC,wBAAgB,OAAO,CAAC,IAAI,EAAE,IAAI,UAKjC;AAGD,wBAAgB,SAAS,CAAC,EAAE,OAAO,EAAE,EAAE,aAAa;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA+EnD"}
